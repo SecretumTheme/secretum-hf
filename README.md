@@ -29,7 +29,7 @@ This is a freemium plugin. The Secretum HF plugin is licensed under GNU GPLv3 un
 
 Using the action hook 'secretum_hf' allows developers to easily integrate Secretum HF without having to worry about errors displaying if the plugin is not active.
 
-The action hook 'secretum_hf' accepts two arguments, $type and $args. The string $type is required and accepts either: headers|footers. The array $args is not required, when used it checks for 3 possible keys: orderby (date|rand|name|title|author|ID) slug (taxonomy slug)|post_id. 
+The action hook 'secretum_hf' accepts two arguments, $type and $args. The string $type is required and accepts either: headers|footers. The array $args is not required, when used it checks for 3 possible keys: orderby|slug|post_id
 
 The 'orderby' key accepts all allowed WP_Query sortby parameters. Default is 'date' with rand|name|title|ID returning the best expected results. Using 'date' allows for the newest published header/footer to be used.
 
