@@ -30,7 +30,7 @@ class PluginStart
 
         // Register Display Headers/Footers Action
         // @see secretum-hf/functions.php
-        add_action('secretum_hf', 'display', 10, 2);
+        add_action('secretum_hf', '\SecretumHF\Functions\display', 10, 2);
 
         if (is_admin()) {
             // Inject Plugin Links

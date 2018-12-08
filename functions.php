@@ -7,7 +7,7 @@
  */
 
 
-namespace {
+namespace SecretumHF\Functions {
 	/**
 	 * Display Custom Header Posttype Content
 	 *
@@ -45,7 +45,7 @@ namespace {
         	);
 
             // Build Custom Header Query
-            $query = new WP_Query($wp_query);
+            $query = new \WP_Query($wp_query);
 
             // If Query
             if ($query->have_posts()) {

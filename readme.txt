@@ -14,7 +14,7 @@ Custom Headers & Footers Manager
 
 == Description ==
 
-Secretum HF (Headers & Footers) allows developers to provide custom header and footer post types for any adapted theme. This gives website managers complete and total design control over headers and footers, along with the ability to schedule updates or show off different looks for different pages.
+Secretum HF (Headers & Footers) allows developers to provide custom header and footer post types for any adapted theme. This gives website managers complete and total design control over header and footer designs & layouts, along with the ability to schedule updates or show off different looks for different pages.
 
 Designed for the Classic WordPress Editor, works perfectly with Gutenberg.
 
