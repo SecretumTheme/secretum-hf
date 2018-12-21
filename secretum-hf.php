@@ -5,7 +5,7 @@ namespace SecretumHF;
  * Plugin Name: Secretum Custom Headers & Footers
  * Plugin URI: https://github.com/SecretumTheme/secretum-hf
  * Description: Secretum HF (Headers & Footers) allows developers to provide custom header and footer post types for any adapted theme.
- * Version: 0.0.1
+ * Version: 0.0.2
  * License: GNU GPLv3
  * Copyright (c) 2018 Secretum Theme
  * Author: Secretum Theme
@@ -18,7 +18,7 @@ namespace SecretumHF;
 
 
 // Constants
-define('SECRETUM_HF',                   '0.0.1');
+define('SECRETUM_HF',                   '0.0.2');
 define('SECRETUM_HF_WP_MIN_VERSION',    '3.8');
 define('SECRETUM_HF_PLUGIN_FILE',       __FILE__);
 define('SECRETUM_HF_PLUGIN_DIR',        dirname(SECRETUM_HF_PLUGIN_FILE));
