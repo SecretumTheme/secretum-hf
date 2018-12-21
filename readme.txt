@@ -5,7 +5,7 @@ Tags: post type, post types, taxonomy, taxonomies, header, headers, footer, foot
 Requires at least: 4.6
 Requires PHP: 5.6
 Tested up to: 5.0
-Stable tag: 0.0.2
+Stable tag: 0.0.1
 License: GNU GPLv3
 License URI: https://github.com/SecretumTheme/secretum-hf/blob/master/LICENSE
 

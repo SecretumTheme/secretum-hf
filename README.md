@@ -4,7 +4,7 @@
 * **Tags:** post type, post types, custom-post-type, custom post types, taxonomy, taxonomies, custom taxonomy, custom taxonomies
 * **Requires at least:** 4.6
 * **Tested up to:** 4.8.1
-* **Stable tag:** 0.0.2
+* **Stable tag:** 0.0.1
 * **License:** GNU GPLv3
 * **License URI:** https://github.com/SecretumTheme/secretum-hf/blob/master/LICENSE
 
