@@ -1,7 +1,7 @@
 {
 	"name" : "Secretum Custom Headers & Footers",
 	"version" : "0.0.2",
-	"download_url" : "https://github.com/SecretumTheme/secretum-updater/archive/0.0.2.zip",
+	"download_url" : "https://github.com/SecretumTheme/secretum-hf/archive/0.0.2.zip",
 	"sections" : {
 		"description" : "Secretum HF (Headers & Footers) allows developers to provide custom header and footer post types for any adapted theme."
 	}
