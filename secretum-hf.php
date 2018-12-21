@@ -72,9 +72,9 @@ add_action('after_setup_theme', array('\SecretumHF\PluginStart', 'instance'), 0)
 //  Secretum Updater Plugin
 if (defined('SECRETUM_UPDATER') && file_exists(SECRETUM_UPDATER)) {
     if (!class_exists('Puc_v4p4_Autoloader')) { include_once(SECRETUM_UPDATER); }
-    $secretum_theme_updater = \Puc_v4_Factory::buildUpdateChecker(
+    $secretum_hf_updater = \Puc_v4_Factory::buildUpdateChecker(
         'https://raw.githubusercontent.com/SecretumTheme/secretum-hf/master/updates.json',
         SECRETUM_HF_PLUGIN_FILE,
-        'secretum'
+        'secretum-hf'
     );
 }
